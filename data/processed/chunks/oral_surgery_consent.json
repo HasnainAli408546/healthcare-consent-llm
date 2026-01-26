@@ -1,0 +1,57 @@
+{
+  "source_file": "oral_surgery_consent.txt",
+  "document_type": "consent",
+  "has_sections": true,
+  "section_count": 6,
+  "total_char_count": 2808,
+  "sections": [
+    {
+      "section_index": 3,
+      "section_title": "I give my permission for a [CLINIC NAME] DENTIST / DENTAL RESIDENT / DENTAL STUDENT to",
+      "content": "perform the treatment listed below, as well as any additional procedures found to be necessary during the oral\nsurgery. This permission is for me (or my child/ward):",
+      "char_count": 165,
+      "line_count": 2,
+      "is_signature_section": false
+    },
+    {
+      "section_index": 4,
+      "section_title": "__________________________________________________. I fully understand this informed consent form",
+      "content": "for oral surgery and I also understand the reasons why the treatment was recommended to me. I have been\ngiven satisfactory answers to all of my questions. I understand that no guarantee of outcome has been made or\nimplied regarding the following treatment:",
+      "char_count": 256,
+      "line_count": 3,
+      "is_signature_section": false
+    },
+    {
+      "section_index": 6,
+      "section_title": "I have agreed to the treatment listed above. I have been informed about the treatment alternatives and I",
+      "content": "completely understand these options listed below:\nAlternatives: ________________________________________________________________________",
+      "char_count": 136,
+      "line_count": 2,
+      "is_signature_section": false
+    },
+    {
+      "section_index": 8,
+      "section_title": "I consent to the following anesthesia procedures",
+      "content": "__________ Local anesthesia\n__________ Local anesthesia with Nitrous Oxide and Oxygen\n__________ Other : __________________________________",
+      "char_count": 139,
+      "line_count": 3,
+      "is_signature_section": false
+    },
+    {
+      "section_index": 9,
+      "section_title": "IV. RISKS AND CONSEQUENCES",
+      "content": "I understand that there are risks and consequences associated with the administration of medications, including\nanesthesia, and performance of the recommended surgery. These can be, but are not limited to the following:\n1. Drug reactions and side effects.\n2. Post – operative bleeding, oozing, infection and/or bone inflammation. Bruising and/or\nswelling, restricted mouth opening for several days or weeks.\n3. Removal of bone during tooth extraction.\n4. Damage to adjacent teeth or tooth restorations.\n5. Root tips sometimes break during the oral surgery process. These root tips may be left in the\nbone to avoid more aggressive surgery. However, this more aggressive surgery may be\nneeded and you may be referred for this procedure.",
+      "char_count": 734,
+      "line_count": 10,
+      "is_signature_section": false
+    },
+    {
+      "section_index": 10,
+      "section_title": "6. Delayed healing, including but not limited to, dry socket, necessitating post operative care.",
+      "content": "7. Possible involvement of the sinus during the removal of the upper posterior teeth, which\nmay require additional treatment or surgical repair at a later date.\n8. Possible involvement of the nerve of the lower jaw during the removal of the lower back\nteeth resulting in temporary or permanent tingling / numbness of the lower lip, chin, tongue\nor other surrounding structures.\n9. Jaw fracture.\n10. If you are taking medications to make your bones stronger (such as bisphosphonates) or if\nyou have received radiation therapy to the head or neck area for tumors / cancer, then you\nare at a higher risk for poor bone healing or bone death that may never completely resolve.\n_______________________________ ______________ ___________________________\nPatient/Parent or Guardian Signature Date Witness Signature",
+      "char_count": 806,
+      "line_count": 11,
+      "is_signature_section": false
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "document_type": "consent",
+  "procedure": {
+    "name": "general dental care authorization"
+  },
+  "risks_and_complications": [
+    "bruising, hematoma, cardiac stimulation, muscle soreness, and temporary or rarely, permanent numbness from local anesthetic",
+    "occasionally needles break and may require surgical retrieval",
+    "drops of local anesthetic may contact the eyes and facial tissues and cause temporary irritation",
+    "teeth may remain sensitive or even possibly quite painful during and after completion of treatment",
+    "dental materials and medications may trigger allergic or sensitivity reactions",
+    "jaw muscles may be sore or tender after lengthy appointments",
+    "gums and surrounding tissues may be sensitive or painful during and/or after treatment",
+    "tongue, cheek or other oral tissues may be inadvertently abraded or lacerated (cut) during routine dental procedures",
+    "items including, but not limited to crowns, small dental instruments, drill components, etc. may be aspirated (inhaled into the respiratory system) or swallowed",
+    "non-healing of the jaw bones following oral surgery or tooth extractions if taking certain prescription drugs"
+  ],
+  "alternatives_to_treatment": [],
+  "authorization": {
+    "present": true
+  },
+  "signature": {
+    "required": true
+  }
+}

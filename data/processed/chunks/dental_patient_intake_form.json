@@ -1,0 +1,41 @@
+{
+  "source_file": "dental_patient_intake_form.txt",
+  "document_type": "intake",
+  "has_sections": true,
+  "section_count": 4,
+  "total_char_count": 1176,
+  "sections": [
+    {
+      "section_index": 1,
+      "section_title": "New Patient Intake Form Dental",
+      "content": "Welcome to Our Dental Practice\nPlease complete this form before your first appointment.\nPersonal Information\n● Full Name: ___________________________\n● Date of Birth: ______ / ______ / ______\n● Address: _____________________________\nCity: _________________ State: ___________ ZIP: ________\n● Phone Number: ________________________\n● Email Address: ________________________",
+      "char_count": 372,
+      "line_count": 9,
+      "is_signature_section": false
+    },
+    {
+      "section_index": 2,
+      "section_title": "Insurance Information",
+      "content": "● Insurance Provider: ___________________\n● Policy Number: _______________________\n● Group Number: ________________________",
+      "char_count": 123,
+      "line_count": 3,
+      "is_signature_section": false
+    },
+    {
+      "section_index": 3,
+      "section_title": "Dental History",
+      "content": "1. Reason for Visit: _____________________________\n2. Are you currently experiencing dental pain? [ ] Yes [ ] No\n3. Do you have any of the following?\n[ ] Sensitivity to hot/cold [ ] Bleeding gums [ ] Grinding teeth\n[ ] Other: ______________________________________\nOral Hygiene Routine\nHow often do you brush your teeth? [ ] Once a day [ ] Twice a day [ ] Rarely\nDo you floss regularly? [ ] Yes [ ] No\nCopyright @ SampleForms.com",
+      "char_count": 429,
+      "line_count": 9,
+      "is_signature_section": false
+    },
+    {
+      "section_index": 4,
+      "section_title": "--- PAGE 2 ---",
+      "content": "Acknowledgment\nI confirm that the above information is accurate and complete.\nSignature: ___________________________ Date: _____________\nCopyright @ SampleForms.com",
+      "char_count": 164,
+      "line_count": 4,
+      "is_signature_section": false
+    }
+  ]
+}

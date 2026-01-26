@@ -1,0 +1,67 @@
+{
+  "document_type": "informed_consent",
+
+  "procedure": {
+    "name": "General Dental Procedures",
+    "covered_procedures": [
+      "Dental examination and radiographs",
+      "Administration of medications, anesthesia, and sedation",
+      "Restorative treatments (fillings)",
+      "Tooth extractions",
+      "Crowns, bridges, veneers, and bonding",
+      "Complete and partial dentures",
+      "Endodontic treatment (root canal therapy)",
+      "Periodontal treatment",
+      "Temporomandibular joint (TMJ) related care",
+      "Treatment plan modifications during care"
+    ],
+    "description": "This consent covers a broad range of general dental procedures, diagnostics, restorative, surgical, cosmetic, periodontal, and endodontic treatments as deemed necessary during care."
+  },
+
+  "risks_and_complications": [
+    "Allergic reactions to medications including antibiotics, analgesics, anesthetics, and sedation drugs",
+    "Drowsiness, impaired coordination, or loss of awareness following medication or sedation",
+    "Pain, swelling, infection, or delayed healing",
+    "Dry socket following tooth extraction",
+    "Spread of infection or need for additional treatment or hospitalization",
+    "Temporary or permanent nerve injury causing numbness or altered sensation (paresthesia)",
+    "Temporomandibular joint (TMJ) pain, popping, clicking, or locking",
+    "Post-treatment tooth sensitivity or restoration failure",
+    "Failure of root canal treatment or need for additional surgical procedures (apicoectomy)",
+    "Looseness, soreness, breakage, or need for relining of dentures",
+    "Cosmetic limitations including inability to perfectly match natural tooth color",
+    "Increased risk of poor outcomes if post-treatment instructions are not followed",
+    "Reduced effectiveness of oral contraceptives when taking antibiotics",
+    "No guarantee of treatment outcomes"
+  ],
+
+  "alternatives_to_treatment": [
+    "Root canal therapy instead of extraction",
+    "Crowns, periodontal surgery, or other restorative procedures",
+    "Non-surgical periodontal therapy",
+    "Referral to dental specialists",
+    "No treatment"
+  ],
+
+  "authorization": {
+    "present": true,
+    "scope": [
+      "Performance of recommended dental procedures",
+      "Administration of medications, anesthesia, and sedation",
+      "Modification or addition of procedures during treatment if necessary",
+      "Referral to specialists when required"
+    ],
+    "text": "I authorize the dentist to perform recommended dental procedures and to make necessary changes or additions to the treatment plan as conditions are discovered during treatment."
+  },
+
+  "signature": {
+    "required": true,
+    "fields": [
+      "Patient Signature",
+      "Date",
+      "Printed Patient Name",
+      "Parent or Legal Guardian Signature (if applicable)",
+      "Witness Signature"
+    ]
+  }
+}

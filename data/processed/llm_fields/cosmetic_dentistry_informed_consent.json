@@ -1,0 +1,28 @@
+{
+  "document_type": "consent",
+  "procedure": {
+    "name": "Cosmetic Dentistry"
+  },
+  "risks_and_complications": [
+    "Drug reactions and side effects.",
+    "Damage to adjacent teeth or tooth restorations.",
+    "Sensitivity of teeth.",
+    "Chipping, breaking or loosening of the veneer.",
+    "Injury to soft tissues adjacent to veneer due to bonding or bleaching agents.",
+    "Necessity for a more extensive restoration, such as a crown, than originally diagnosed.",
+    "Inability to exactly match tooth coloration.",
+    "Changes in the shade, aesthetics, and appearance of the restoration, which may occur over time.",
+    "Swelling, jaw muscle tenderness or even resultant numbness of the tongue, lips, teeth, jaws and/or facial tissues.",
+    "Changes in speech.",
+    "Changes to the bite or position of the temporomandibular joint which may require further treatment or adjustment."
+  ],
+  "alternatives_to_treatment": [
+    "Alternative methods of treatment have been explained to me, such as: ________________________"
+  ],
+  "authorization": {
+    "present": true
+  },
+  "signature": {
+    "required": true
+  }
+}

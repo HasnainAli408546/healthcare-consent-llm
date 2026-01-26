@@ -1,0 +1,32 @@
+{
+  "document_type": "consent",
+  "procedure": {
+    "name": "root canal therapy"
+  },
+  "risks_and_complications": [
+    "pain",
+    "infection",
+    "swelling",
+    "fever",
+    "changes in occlusion (bite)",
+    "reaction to medications or anesthetics",
+    "nerve injury following local anesthesia",
+    "temporal mandibular (jaw) joint pain",
+    "difficulty opening and closing",
+    "instrument breakage in the root canal",
+    "inability to negotiate canals due to prior treatment or calcification",
+    "perforation to the outside of the tooth",
+    "irreparable damage to the existing crown or restoration",
+    "cracking or fracturing of the root or crown of the tooth"
+  ],
+  "alternatives_to_treatment": [
+    "extraction of the involved tooth",
+    "postponement of root canal therapy"
+  ],
+  "authorization": {
+    "present": true
+  },
+  "signature": {
+    "required": true
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "source_file": "informed_consent_virtual_services.txt",
+  "document_type": "consent",
+  "has_sections": true,
+  "section_count": 4,
+  "total_char_count": 2702,
+  "sections": [
+    {
+      "section_index": 1,
+      "section_title": "Informed Consent Form: For Virtual Teledentistry Services",
+      "content": "Good Neighbor Community Health Center Dental will be using secure e-mail with ZixEncryption and\nZOOM remote communication technology to conduct problem-focused evaluations/re-evaluations\nvirtually, to help manage your oral health problem and to determine whether you have a condition\nthat requires immediate in-office treatment.",
+      "char_count": 328,
+      "line_count": 4,
+      "is_signature_section": false
+    },
+    {
+      "section_index": 2,
+      "section_title": "During the current pandemic the federal government announced that it will not enforce HIPAA",
+      "content": "regulations (privacy for health records) in connection with medical and dental offices’ good faith\nprovision of medical or dental services using non-public facing audio or video remote communications\nservices. Remote patient consultations may take place over applications that allow video chats such\nas Apple Face Time, Facebook Messenger video chat, Google Hangouts, or Skype and may involve\nor be based on photos or videos taken with smart phones by the patient and transmitted to the dental\noffice. Please do not contact us using public-facing services such as Facebook Live, Twitch, or\nTikTok, which are not permitted by the federal government for this purpose.\nAs always, our office will take dental record confidentiality very seriously, and will do what we can under\nthe circumstances to protect the information you send us. While we believe the risk to such\nconfidentiality is not high, it may be greater than it would be if these remote electronic communications",
+      "char_count": 971,
+      "line_count": 10,
+      "is_signature_section": false
+    },
+    {
+      "section_index": 3,
+      "section_title": "were encrypted, which is one of the main HIPAA requirements that is being relaxed during the",
+      "content": "nationwide COVID-19 public health emergency.\nCertain major dental plans have announced that they will reimburse dental offices for conducting such\nremote evaluations, and we will submit claims in connection with them.\nOur dental office is using one or more of the permitted modalities listed above for remote transmission of\ninformation to conduct limited problem focused evaluations. While entirely adequate in the vast majority\nof cases for such limited purposes, these evaluations may not reveal conditions that would be discovered\nduring an office visit or through the use of specialized teledentistry technology.",
+      "char_count": 617,
+      "line_count": 7,
+      "is_signature_section": false
+    },
+    {
+      "section_index": 5,
+      "section_title": "the government rescinds its suspension of these HIPAA requirements, by typing your name in the",
+      "content": "space provided and return via email to GNCHCDentalColumbus@ecdhd.ne.gov.\n___________________________________ ___________ ____________\nTyped Patient Name Date of Birth Today’s Date\n___________________________________ ___________\nWitness Signature Chart Number",
+      "char_count": 258,
+      "line_count": 5,
+      "is_signature_section": false
+    }
+  ]
+}

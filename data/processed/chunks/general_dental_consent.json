@@ -1,0 +1,17 @@
+{
+  "source_file": "general_dental_consent.txt",
+  "document_type": "consent",
+  "has_sections": true,
+  "section_count": 1,
+  "total_char_count": 3094,
+  "sections": [
+    {
+      "section_index": 1,
+      "section_title": "I give consent for myself/my child to receive dental treatment deemed necessary by the providers at",
+      "content": "the Open Door Medical Centers. These procedures include, but are not limited to; examinations, oral\nprophylaxes (cleanings), fluoride treatments, sealants, restorations (amalgam or composite fillings and\ncrowns), periodontal (gum) treatments, endodontic (root canal) treatments, extractions, and the use of\nlocal anesthetics. I understand that the use of local anesthetics carries a small risk for swelling,\nbruising, allergic reaction, changes in pain perception, or prolonged anesthesia. This consent shall be\nconsidered in effect until rescinded or revoked.\n______________________________________ ____________________________ ______________\n(print your name) (relationship) (date)\n_________________________________________ _____________________________ ______________\n(your signature) (witness) (date)\nThis section needs to be completed for children under the age of 18 by a parent or legal guardian ONLY.\nI affirm that I am the parent or legal guardian for the above named minor child. If I am unable to\naccompany my child, I give permission for the individuals named below to escort my child for dental\ntreatments:\nName:_____________________________________ Relationship:_____________________\nName:_____________________________________ Relationship:_____________________\nName:_____________________________________ Relationship:_____________________\nName:_____________________________________ Relationship:_____________________\nIf child is over 13, please check one:\n(cid:1)\nSince my child is over the age of 13, I also give permission for him/her to present for treatment\nunaccompanied by an adult. I understand that no invasive treatment, such as extractions or the\ninitiation of root canal therapies, will be performed unless I am notified by telephone. In the event\nof an emergency, when I cannot be reached, I give permission to perform whatever therapies are\ndeemed necessary by the treating provider.\n(cid:1)\nAlthough my child is over 13, I wish to be present for all treatments performed.\n___________________________________________________\n(signature of parent or legal guardian)\nThis consent shall be considered in effect until rescinded or revoked.",
+      "char_count": 2163,
+      "line_count": 30,
+      "is_signature_section": false
+    }
+  ]
+}

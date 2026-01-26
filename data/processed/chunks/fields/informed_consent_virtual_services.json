@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "document_type": "mixed",
+  "source_file": "informed_consent_virtual_services.txt",
+  "procedure": {
+    "name": "Virtual Teledentistry Services",
+    "description": ""
+  },
+  "risks_and_complications": [
+    "the circumstances to protect the information you send us. While we believe the risk to such"
+  ],
+  "alternatives_to_treatment": [],
+  "medications_and_sedation": {
+    "mentioned": false,
+    "warnings": []
+  },
+  "patient_responsibilities": [],
+  "right_to_refuse": {
+    "present": false,
+    "text": ""
+  },
+  "authorization": {
+    "present": true,
+    "text": ""
+  },
+  "signature": {
+    "required": true,
+    "guardian_allowed": false
+  }
+}

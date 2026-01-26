@@ -1,0 +1,84 @@
+{
+  "document_type": "pediatric_patient_intake_form",
+
+  "patient_information": {
+    "present": true,
+    "fields": [
+      "Child Name",
+      "Nickname",
+      "Date of Birth",
+      "Age",
+      "Sex",
+      "School",
+      "Mailing Address",
+      "Physical Address",
+      "Home Phone",
+      "Cell Phone"
+    ]
+  },
+
+  "responsible_party_information": {
+    "present": true,
+    "fields": [
+      "Parent or Guardian Name",
+      "Relationship to Child",
+      "Mailing Address",
+      "Phone Numbers"
+    ]
+  },
+
+  "insurance_information": {
+    "present": true,
+    "fields": [
+      "Insured Name",
+      "Employer",
+      "Occupation",
+      "Relationship to Child",
+      "Insurance Company",
+      "Group Number",
+      "Social Security Number",
+      "Date of Birth"
+    ]
+  },
+
+  "emergency_contact": {
+    "present": true,
+    "fields": [
+      "Emergency Contact Name",
+      "Relationship",
+      "Phone Number"
+    ]
+  },
+
+  "referral_information": {
+    "present": true,
+    "description": "Source of referral to the dental practice"
+  },
+
+  "financial_responsibility": {
+    "present": true,
+    "description": "Parent or guardian acknowledges responsibility for payment of all services rendered, regardless of insurance coverage."
+  },
+
+  "insurance_disclaimer": {
+    "present": true,
+    "description": "Insurance assistance provided, but financial responsibility remains with the responsible party."
+  },
+
+  "treatment_authorization": {
+    "present": false
+  },
+
+  "informed_consent": {
+    "present": false
+  },
+
+  "signature": {
+    "required": true,
+    "signatory": "Parent or Guardian",
+    "fields": [
+      "Parent or Guardian Signature",
+      "Date"
+    ]
+  }
+}

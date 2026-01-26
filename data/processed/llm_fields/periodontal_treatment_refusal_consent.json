@@ -1,0 +1,16 @@
+{
+  "document_type": "refusal",
+  "procedure": {
+    "name": "periodontal cleaning"
+  },
+  "risks_and_complications": [
+    "tooth and bone loss"
+  ],
+  "alternatives_to_treatment": [],
+  "authorization": {
+    "present": false
+  },
+  "signature": {
+    "required": true
+  }
+}

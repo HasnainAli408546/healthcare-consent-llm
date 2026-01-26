@@ -1,0 +1,49 @@
+{
+  "document_type": "consent",
+  "procedure": {
+    "name": "general dental procedures"
+  },
+  "risks_and_complications": [
+    "allergic reactions to medications",
+    "pain",
+    "swelling of tissues",
+    "redness",
+    "itching",
+    "vomiting",
+    "anaphylactic shock",
+    "drowsiness",
+    "lack of awareness and coordination",
+    "dry socket",
+    "loss of feeling in teeth, lips, tongue, and surrounding tissue (parasthesia)",
+    "fractured jaw",
+    "infection",
+    "aggravated infection",
+    "potential resistance to treatment",
+    "looseness of dentures",
+    "soreness of dentures",
+    "possible breakage of dentures",
+    "relining of dentures",
+    "no guarantee of success of root canal treatment",
+    "complications from root canal treatment",
+    "posts cemented in the tooth",
+    "occasional need for additional surgical procedures after root canal treatment",
+    "gum inflammation",
+    "bone loss",
+    "loss of teeth"
+  ],
+  "alternatives_to_treatment": [
+    "no treatment",
+    "deferring treatment",
+    "referral to specialist",
+    "root canal therapy",
+    "crowns",
+    "periodontal surgery",
+    "extractions"
+  ],
+  "authorization": {
+    "present": true
+  },
+  "signature": {
+    "required": true
+  }
+}

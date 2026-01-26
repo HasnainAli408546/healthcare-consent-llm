@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "document_type": "consent",
+  "source_file": "tooth_extraction_consent.txt",
+  "procedure": {
+    "name": "EXTRACTION OF TEETH",
+    "description": ""
+  },
+  "risks_and_complications": [
+    "there are some risks. They include, but are not limited to, the following:",
+    "________ 1. Swelling and/or bruising and discomfort in the surgery area.",
+    "________2. Stretching of the corners of the mouth resulting in cracking or bruising.",
+    "________3. Possible infection requiring additional treatment.",
+    "________4. Dry Socket- Jaw pain beginning a few days after surgery usually requiring additional care. It is more",
+    "________5. Possible damage to adjacent teeth, especially those with large fillings or crowns (caps).",
+    "________6. Numbness, pain, or altered sensations in the teeth, gums, lip, tongue (including possible loss of taste",
+    "________7. Trismus- Limited jaw opening due to inflammation or swelling, most common after wisdom tooth removal.",
+    "________8. Bleeding- Significant bleeding is not common, but persistent oozing can be expected for several hours",
+    "________9. Sharp ridges or bone splinters may form later at the edge of the socket. These usually require another",
+    "_______10. Incomplete removal of tooth fragments. To avoid injury to vital structures such as nerves or sinus,",
+    "_______11. Sinus Involvement. The roots of the upper back teeth are often close to the sinus and sometimes a piece of",
+    "_______12. Jaw Fracture- While quite rare, it is possible in difficult or deeply impacted teeth."
+  ],
+  "alternatives_to_treatment": [],
+  "medications_and_sedation": {
+    "mentioned": false,
+    "warnings": []
+  },
+  "patient_responsibilities": [],
+  "right_to_refuse": {
+    "present": false,
+    "text": ""
+  },
+  "authorization": {
+    "present": true,
+    "text": ""
+  },
+  "signature": {
+    "required": true,
+    "guardian_allowed": true
+  }
+}

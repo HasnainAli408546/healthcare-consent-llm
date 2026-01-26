@@ -1,0 +1,59 @@
+{
+  "document_type": "dental_implant_informed_consent",
+
+  "procedure": {
+    "name": "Dental Implant Placement",
+    "description": "Surgical placement of one or more dental implants and related procedures."
+  },
+
+  "recommended_treatment": {
+    "present": true,
+    "details": "Dental implant placement and any additional procedures deemed necessary during treatment."
+  },
+
+  "treatment_alternatives": {
+    "present": true,
+    "description": "Alternative treatment options have been explained to the patient."
+  },
+
+  "anesthesia": {
+    "present": true,
+    "types": [
+      "Local anesthesia"
+    ]
+  },
+
+  "risks_and_complications": [
+    "Drug reactions and medication side effects",
+    "Post-operative pain, bleeding, infection, swelling, or delayed healing",
+    "Damage to adjacent teeth or restorations",
+    "Sinus cavity involvement requiring additional treatment or repair",
+    "Nerve injury resulting in temporary or permanent numbness, pain, or altered sensation",
+    "Inability to place implant due to anatomy",
+    "Implant failure",
+    "Unacceptable cosmetic outcome or gum discoloration",
+    "Bone loss around implant or adjacent teeth",
+    "Need for bone grafting",
+    "Jaw fracture",
+    "Temporary or permanent anesthesia-related numbness or muscle tenderness"
+  ],
+
+  "no_guarantee_statement": {
+    "present": true
+  },
+
+  "authorization_scope": {
+    "present": true,
+    "description": "Authorization for implant placement and necessary additional procedures."
+  },
+
+  "signature": {
+    "required": true,
+    "fields": [
+      "Patient or Parent/Guardian Signature",
+      "Date",
+      "Relationship to Patient (if minor)",
+      "Witness Signature"
+    ]
+  }
+}

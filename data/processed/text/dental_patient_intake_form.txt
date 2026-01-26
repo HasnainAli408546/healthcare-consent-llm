@@ -1,0 +1,31 @@
+New Patient Intake Form Dental
+Welcome to Our Dental Practice
+Please complete this form before your first appointment.
+Personal Information
+● Full Name: ___________________________
+● Date of Birth: ______ / ______ / ______
+● Address: _____________________________
+City: _________________ State: ___________ ZIP: ________
+● Phone Number: ________________________
+● Email Address: ________________________
+Insurance Information
+● Insurance Provider: ___________________
+● Policy Number: _______________________
+● Group Number: ________________________
+Dental History
+1. Reason for Visit: _____________________________
+2. Are you currently experiencing dental pain? [ ] Yes [ ] No
+3. Do you have any of the following?
+[ ] Sensitivity to hot/cold [ ] Bleeding gums [ ] Grinding teeth
+[ ] Other: ______________________________________
+Oral Hygiene Routine
+How often do you brush your teeth? [ ] Once a day [ ] Twice a day [ ] Rarely
+Do you floss regularly? [ ] Yes [ ] No
+Copyright @ SampleForms.com
+
+--- PAGE 2 ---
+
+Acknowledgment
+I confirm that the above information is accurate and complete.
+Signature: ___________________________ Date: _____________
+Copyright @ SampleForms.com

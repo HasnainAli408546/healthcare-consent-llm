@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "document_type": "consent",
+  "source_file": "general_dental_consent.txt",
+  "procedure": {
+    "name": "myself/my child to receive dental treatment deemed necessary by the providers at",
+    "description": ""
+  },
+  "risks_and_complications": [
+    "local anesthetics. I understand that the use of local anesthetics carries a small risk for swelling,"
+  ],
+  "alternatives_to_treatment": [],
+  "medications_and_sedation": {
+    "mentioned": true,
+    "warnings": [
+      "the Open Door Medical Centers. These procedures include, but are not limited to; examinations, oral prophylaxes (cleanings), fluoride treatments, sealants, restorations (amalgam or composite fillings and crowns), periodontal (gum) treatments, endodontic (root canal) treatments, extractions, and the use of local anesthetics. I understand that the use of local anesthetics carries a small risk for swelling, bruising, allergic reaction, changes in pain perception, or prolonged anesthesia. This consent shall be considered in effect until rescinded or revoked. ______________________________________ ____________________________ ______________ (print your name) (relationship) (date) _________________________________________ _____________________________ ______________ (your signature) (witness) (date) This section needs to be completed for children under the age of 18 by a parent or legal guardian ONLY. I affirm that I am the parent or legal guardian for the above named minor child. If I am unable to accompany my child, I give permission for the individuals named below to escort my child for dental treatments: Name:_____________________________________ Relationship:_____________________ Name:_____________________________________ Relationship:_____________________ Name:_____________________________________ Relationship:_____________________ Name:_____________________________________ Relationship:_____________________ If child is over 13, please check one: (cid:1) Since my child is over the age of 13, I also give permission for him/her to present for treatment unaccompanied by an adult. I understand that no invasive treatment, such as extractions or the initiation of root canal therapies, will be performed unless I am notified by telephone. In the event of an emergency, when I cannot be reached, I give permission to perform whatever therapies are deemed necessary by the treating provider. (cid:1) Although my child is over 13, I wish to be present for all treatments performed. ___________________________________________________ (signature of parent or legal guardian) This consent shall be considered in effect until rescinded or revoked."
+    ]
+  },
+  "patient_responsibilities": [],
+  "right_to_refuse": {
+    "present": false,
+    "text": ""
+  },
+  "authorization": {
+    "present": true,
+    "text": "the Open Door Medical Centers. These procedures include, but are not limited to; examinations, oral prophylaxes (cleanings), fluoride treatments, sealants, restorations (amalgam or composite fillings and crowns), periodontal (gum) treatments, endodontic (root canal) treatments, extractions, and the use of local anesthetics. I understand that the use of local anesthetics carries a small risk for swelling, bruising, allergic reaction, changes in pain perception, or prolonged anesthesia. This consent shall be considered in effect until rescinded or revoked. ______________________________________ ____________________________ ______________ (print your name) (relationship) (date) _________________________________________ _____________________________ ______________ (your signature) (witness) (date) This section needs to be completed for children under the age of 18 by a parent or legal guardian ONLY. I affirm that I am the parent or legal guardian for the above named minor child. If I am unable to accompany my child, I give permission for the individuals named below to escort my child for dental treatments: Name:_____________________________________ Relationship:_____________________ Name:_____________________________________ Relationship:_____________________ Name:_____________________________________ Relationship:_____________________ Name:_____________________________________ Relationship:_____________________ If child is over 13, please check one: (cid:1) Since my child is over the age of 13, I also give permission for him/her to present for treatment unaccompanied by an adult. I understand that no invasive treatment, such as extractions or the initiation of root canal therapies, will be performed unless I am notified by telephone. In the event of an emergency, when I cannot be reached, I give permission to perform whatever therapies are deemed necessary by the treating provider. (cid:1) Although my child is over 13, I wish to be present for all treatments performed. ___________________________________________________ (signature of parent or legal guardian) This consent shall be considered in effect until rescinded or revoked."
+  },
+  "signature": {
+    "required": true,
+    "guardian_allowed": true
+  }
+}

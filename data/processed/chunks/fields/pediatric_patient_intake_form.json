@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0",
+  "document_type": "intake",
+  "source_file": "pediatric_patient_intake_form.txt",
+  "procedure": {
+    "name": "",
+    "description": ""
+  },
+  "risks_and_complications": [],
+  "alternatives_to_treatment": [],
+  "medications_and_sedation": {
+    "mentioned": false,
+    "warnings": []
+  },
+  "patient_responsibilities": [],
+  "right_to_refuse": {
+    "present": false,
+    "text": ""
+  },
+  "authorization": {
+    "present": false,
+    "text": ""
+  },
+  "signature": {
+    "required": true,
+    "guardian_allowed": true
+  }
+}

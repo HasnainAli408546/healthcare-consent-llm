@@ -1,0 +1,27 @@
+{
+  "document_type": "consent",
+  "procedure": {
+    "name": "extraction of teeth"
+  },
+  "risks_and_complications": [
+    "Swelling and/or bruising and discomfort in the surgery area.",
+    "Stretching of the corners of the mouth resulting in cracking or bruising.",
+    "Possible infection requiring additional treatment.",
+    "Dry Socket- Jaw pain beginning a few days after surgery usually requiring additional care.",
+    "Possible damage to adjacent teeth, especially those with large fillings or crowns (caps).",
+    "Numbness, pain, or altered sensations in the teeth, gums, lip, tongue (including possible loss of taste sensation) and chin, due to the closeness of tooth roots (especially wisdom teeth) to the nerves which can be bruised or damaged.",
+    "Trismus- Limited jaw opening due to inflammation or swelling, most common after wisdom tooth removal.",
+    "Bleeding- Significant bleeding is not common, but persistent oozing can be expected for several hours",
+    "Sharp ridges or bone splinters may form later at the edge of the socket.",
+    "Incomplete removal of tooth fragments.",
+    "Sinus Involvement.",
+    "Jaw Fracture- While quite rare, it is possible in difficult or deeply impacted teeth."
+  ],
+  "alternatives_to_treatment": [],
+  "authorization": {
+    "present": true
+  },
+  "signature": {
+    "required": true
+  }
+}

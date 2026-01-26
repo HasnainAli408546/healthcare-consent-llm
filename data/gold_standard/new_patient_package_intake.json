@@ -1,0 +1,99 @@
+{
+  "document_type": "patient_intake_and_general_consent",
+
+  "procedure": {
+    "name": "General Dental Care Authorization",
+    "covered_procedures": [
+      "Dental examination and diagnostic evaluation",
+      "Preventive dental care (cleanings, fluoride, sealants)",
+      "Restorative treatments (fillings, crowns, onlays)",
+      "Endodontic treatment (root canal therapy)",
+      "Periodontal treatment",
+      "Dental prosthetics (implants, bridges, dentures)",
+      "Tooth extractions and oral surgery",
+      "Use of local anesthesia and nitrous oxide sedation",
+      "Use of diagnostic aids including radiographs",
+      "Treatment of oral hard and soft tissues"
+    ],
+    "description": "This document authorizes general dental diagnosis and treatment while also collecting patient demographic, medical, dental, insurance, privacy, and financial information."
+  },
+
+  "risks_and_complications": [
+    "Allergic reactions to medications, anesthesia, or sedative drugs",
+    "Pain, swelling, bleeding, bruising, nausea, or vomiting",
+    "Temporary or permanent numbness or tingling of lips, tongue, face, or neck",
+    "Infection or delayed healing",
+    "Instrument breakage during root canal treatment requiring additional procedures",
+    "Sinus involvement during extraction of upper molars",
+    "Incomplete removal of tooth fragments to prevent nerve or sinus injury",
+    "Jaw fracture in rare cases of difficult extractions",
+    "Respiratory or cardiovascular complications related to anesthesia or sedation",
+    "Rare risk of oxygen deprivation, coma, or death associated with anesthesia",
+    "Failure of treatment if post-operative instructions are not followed",
+    "Financial responsibility for services not covered by insurance"
+  ],
+
+  "alternatives_to_treatment": [
+    "No dental treatment",
+    "Referral to dental specialists",
+    "Alternative restorative or surgical procedures",
+    "Deferring treatment"
+  ],
+
+  "medications_and_sedation": {
+    "mentioned": true,
+    "types": [
+      "Local anesthesia",
+      "Nitrous oxide/oxygen analgesia",
+      "Sedative medications"
+    ],
+    "risks": [
+      "Nausea or vomiting",
+      "Temporary facial numbness or tingling",
+      "Allergic reactions",
+      "Respiratory or cardiovascular complications"
+    ]
+  },
+
+  "patient_responsibilities": [
+    "Provide accurate and complete medical and dental history",
+    "Inform the dentist of any changes in health status",
+    "Follow all post-operative and post-care instructions",
+    "Maintain scheduled dental appointments",
+    "Brush and floss as recommended",
+    "Pay for services not covered by insurance"
+  ],
+
+  "authorization": {
+    "present": true,
+    "scope": [
+      "Authorization to perform dental procedures listed in the consent",
+      "Authorization to administer anesthesia and sedation",
+      "Authorization to modify treatment plans if necessary",
+      "Authorization to use anonymized clinical records for teaching or research",
+      "Authorization for disclosure of health information as outlined in the Notice of Privacy Practices"
+    ],
+    "text": "I authorize National Dental PLLC to perform dental procedures, administer anesthesia and sedation, modify treatment plans as needed, and use anonymized records for educational or research purposes."
+  },
+
+  "right_to_refuse": {
+    "present": true,
+    "description": "Patient retains the right to refuse treatment and may terminate consent at any time."
+  },
+
+  "privacy_and_financial_policies": {
+    "privacy_notice_acknowledged": true,
+    "financial_policy_acknowledged": true
+  },
+
+  "signature": {
+    "required": true,
+    "fields": [
+      "Patient or Guardian Signature",
+      "Date",
+      "Printed Patient Name",
+      "Witness Signature",
+      "Responsible Party Signature (if applicable)"
+    ]
+  }
+}

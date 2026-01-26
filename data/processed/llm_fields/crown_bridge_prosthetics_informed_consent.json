@@ -1,0 +1,26 @@
+{
+  "document_type": "consent",
+  "procedure": {
+    "name": "Crown and Bridge Prosthetics"
+  },
+  "risks_and_complications": [
+    "Reduction of tooth structure.",
+    "Sensitivity of teeth.",
+    "Crown or bridge abutment teeth may require root canal treatment.",
+    "Breakage.",
+    "Uncomfortable or strange feelings, which is typically temporary.",
+    "Muscle soreness or tenderness of the jaw may persist following placement of the prosthesis.",
+    "Unsatisfactory aesthetics or appearance.",
+    "Unsatisfactory longevity of crowns and bridge.",
+    "Swelling, jaw muscle tenderness or resultant numbness of the tongue, lips, teeth, jaws and/or facial tissues, which is typically temporary, but in rare instances, may be permanent."
+  ],
+  "alternatives_to_treatment": [
+    "Alternative methods of treatment have been explained to me, such as: ________________________"
+  ],
+  "authorization": {
+    "present": true
+  },
+  "signature": {
+    "required": true
+  }
+}

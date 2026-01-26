@@ -1,0 +1,14 @@
+{
+  "document_type": "intake",
+  "procedure": {
+    "name": null
+  },
+  "risks_and_complications": [],
+  "alternatives_to_treatment": [],
+  "authorization": {
+    "present": null
+  },
+  "signature": {
+    "required": true
+  }
+}

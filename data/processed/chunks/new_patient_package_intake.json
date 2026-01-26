@@ -1,0 +1,177 @@
+{
+  "source_file": "new_patient_package_intake.txt",
+  "document_type": "intake",
+  "has_sections": true,
+  "section_count": 21,
+  "total_char_count": 15783,
+  "sections": [
+    {
+      "section_index": 2,
+      "section_title": "Patient Information",
+      "content": "Name: Birthdate:\nAddress: City: State: Zip:\nHome phone: Cell phone: Email:\nSex: M F Marital status: Single Married Divorced Separated Partnership Widowed\nEmployer or School: Phone:\nAddress: City: State: Zip:\nSpouse, partner or parent name:\nPerson to contact in case of an emergency: Phone:\nHow did you learn about our practice or whom may we thank for referring you?\nWho is responsible for your account and payment? (if different from previous listing):\nAddress: City: State: Zip:\nPhone: Email: Birthdate:",
+      "char_count": 505,
+      "line_count": 12,
+      "is_signature_section": false
+    },
+    {
+      "section_index": 3,
+      "section_title": "Dental Insurance",
+      "content": "Insurance company: Phone #:\nSubscriber's Social Security # Group # ID #:\nWho’s the policy holder? Policy holder Date of Birth:\nEmployer offering this insurance? Phone:\nDo you have any additional insurance? (if applicable, please complete the following)\nInsurance company: Phone #\nSubscriber's Social Security # Group # ID #\nWho’s the policy holder? Policy holder Date of Birth:\nEmployer offering this insurance? Phone:",
+      "char_count": 418,
+      "line_count": 9,
+      "is_signature_section": false
+    },
+    {
+      "section_index": 4,
+      "section_title": "Dental History",
+      "content": "Reason for today's visit:\nDate of last dental care visit: Date of last dental x-rays:\nWhy did you leave your previous dentist?\nCheck if you have any problem with the following:\nBad breath\nBleeding gums Periodontal treatment\nClicking or popping jaw Sensitivity to any of the following: cold, hot, sweets\nFood collection between certain teeth Sensitivity when biting\nGrinding teeth Sores or growth in your mouth\nHow often do you floss? How often do you brush?\nTell us a little about your teeth?\nDo you like your smile?",
+      "char_count": 516,
+      "line_count": 12,
+      "is_signature_section": false
+    },
+    {
+      "section_index": 6,
+      "section_title": "Medical History",
+      "content": "Your physician: Date of last visit:\nHave you ever taken Fen-Phen/Redux? Yes No\nHave you ever taken Fosamax, Boniva, Actonel or any cancer medications containing bisphosphonates? Yes No\nHave you had any serious illnesses or operations? Yes No\nIf yes, describe:\nHave you ever had a blood transfusion? Yes No\nIf yes, give approximate dates:\nDo you snore? Yes No\nHave you had a sleep study? Yes No\nWomen: are you pregnant? Yes No\nAre you nursing? Yes No\nAre you taking birth control? Yes No\nCheck if you have or have had any of the following:\nAnemia Fainting\nPacemaker\nArthritis, rheumatism Glaucoma Radiation treatment\nArtificial heart valves Headaches Respiratory disease\nHeart murmur Rheumatic fever\nAsthma Heart problems Scarlet fever\nBleeding abnormally Hemophilia Sexually transmitted disease\nBlood Disease Hepatitis Stroke\nCancer High blood pressure Swelling of feet or ankles\nChemical dependency HIV or AIDS\nChemotherapy Jaw pain Tobacco use\nCirculatory Problems Kidney disease Tonsillitis\nCongenital heart lesions Liver disease Tuberculosis\nDiabetes Mitral valve prolapse Ulcer\nEpilepsy Osteoporosis\nList medications (including non-prescription medication) you are currently taking and the correlating diagnosis:\nMedication Diagnosis\nPlease list any allergies you may have:\nAllergy Allergy\nTo the best of my knowledge, the above information is complete and correct.\nI understand that it is my responsibility to inform my doctor if I or my minor child has a change in health.\nPatient or Guardian Signature Date",
+      "char_count": 1514,
+      "line_count": 35,
+      "is_signature_section": false
+    },
+    {
+      "section_index": 7,
+      "section_title": "--- PAGE 3 ---",
+      "content": "_______________________________________________________________________",
+      "char_count": 71,
+      "line_count": 1,
+      "is_signature_section": false
+    },
+    {
+      "section_index": 12,
+      "section_title": "OUR LEGAL DUTY",
+      "content": "We are required by applicable federal and state law to maintain the privacy of your health information. We are also required to",
+      "char_count": 127,
+      "line_count": 1,
+      "is_signature_section": false
+    },
+    {
+      "section_index": 14,
+      "section_title": "follow the privacy practices that are described in this notice while it is in effect. This notice takes effect __/__/__ and will",
+      "content": "remain in effect until we replace it.",
+      "char_count": 37,
+      "line_count": 1,
+      "is_signature_section": false
+    },
+    {
+      "section_index": 16,
+      "section_title": "permitted by applicable law. We reserve the right to make changes in our privacy practices and the new terms of our notice",
+      "content": "effective for all health information that we maintain including health information we created or received before we made the",
+      "char_count": 124,
+      "line_count": 1,
+      "is_signature_section": false
+    },
+    {
+      "section_index": 17,
+      "section_title": "changes. Before we make a significant change in our privacy practices we will change this notice and make the new notice",
+      "content": "available upon request.\nYou may request a copy of our notice at any time. For more information about our practices or for additional copies of this\nnotice please contact us using this information listed at the end of this notice.",
+      "char_count": 229,
+      "line_count": 3,
+      "is_signature_section": false
+    },
+    {
+      "section_index": 18,
+      "section_title": "USES AND DISCLOSURES OF HEALTH INFORMATION",
+      "content": "We use and disclose health information about you for treatment payment and healthcare operations. For example:\nTREATMENT: We may use or disclose your health information to a physician or other health care provider providing\ntreatment to you.\nPAYMENTS: We may use and disclose your health information to obtain payment for services we provide to you.\nHEALTH CARE OPERATIONS: We may use and disclose you health information in connection with our healthcare\noperations. Healthcare operations include quality assessment and improvement activities. Reviewing the competence or\nqualifications of health care professionals, evaluating practitioners and provider performance conducting training programs\naccreditation, certification, licensing or credentialing activities.\nYOUR AUTHORIZATION: In addition to our use of your health information for treatment payment or health care operations\nyou may give us written authorization to use you health information or to disclose it to anyone for any purpose if you give us\nan authorization, you may revoke it in writing at any time. Your revocation will not affect any use or disclosures permitted by\nyour authorization while in effect. Unless you give us a written authorization we cannot use or disclose you health information\nfor any reason except those described in this notice.\nTO YOUR FAMILY AND FRIENDS: We must disclose your health information to you as described in this patient rights\nsection of this notice. We may disclose your health information to a family member, friend or other person to the extent\nnecessary to help with your health care or with payment for your healthcare, but only if you agree that we may do so.\nPERSONS INVOLVED IN CARE: We may use or disclose health information to notify or assist in the notification of\nincluding identifying or locating a family member your personal representative or another person responsible for you care of\nyou location you general condition or death. If you are present then prior to use or disclosure of your health information we\nwill provide you with an opportunity to object to such uses or disclosures. In the event of your incapacity or emergency\ncircumstances we will disclose health information based on a determination using our professional judgment disclosing only\nhealth information that is directly relevant to the person’s involvement in your healthcare. We will also use our professional\njudgment and our experience with common practices to make reason able inferences of your best interest in allowing a person\nto pick up filled prescriptions, medical supplies, x- rays or other similar forms of health information.\nMARKETING HEALTH-RELATED SERVICES: We will not use your health information for marketing communications\nwithout your written authorization.\nREQUIERED BY LAW: We may use or disclose your health information when we are required to do so by law.\nABUSE OR NEGLECT: We may disclose your health information to appropriate authorities if we reasonably believe that you\nare possible victim of abuse, neglect, or domestic violence or the possible victim of other crimes. We may disclose your health\ninformation to the extent necessary to avert a serious threat to you health or safety or the health or safety of others.\nNational Dental • 560 S. Broadway Hicksville NY, 11801",
+      "char_count": 3298,
+      "line_count": 31,
+      "is_signature_section": false
+    },
+    {
+      "section_index": 19,
+      "section_title": "--- PAGE 4 ---",
+      "content": "560 S. Broadway\nHicksville NY, 11801\n516-535-0544",
+      "char_count": 49,
+      "line_count": 3,
+      "is_signature_section": false
+    },
+    {
+      "section_index": 22,
+      "section_title": "** You may refuse to sign this acknowledgement **",
+      "content": "I, (full name) ________________________________________, did receive a copy of",
+      "char_count": 78,
+      "line_count": 1,
+      "is_signature_section": false
+    },
+    {
+      "section_index": 25,
+      "section_title": "We attempted to obtain written acknowledgement of receipt of our Notice of Privacy",
+      "content": "Practices, but it could not be obtained because:\n( ) Individual refused to sign",
+      "char_count": 79,
+      "line_count": 2,
+      "is_signature_section": true
+    },
+    {
+      "section_index": 26,
+      "section_title": "( ) Communications barriers prohibited obtaining the acknowledgement",
+      "content": "( ) An emergency situation prevented us from obtaining\n( ) Other (please specify)\n____________________________________________________________\n____________________________________________________________\n____________________________________________________________\n2002 American Dental Association\nAll Rights Reserved\nReproduction and use of this form by dentists and their staff is permitted. Any other use, duplication or distribution of this form by any other party\nrequires the prior written approval of the American Dental Association.\nThis form is educational only, does not constitute legal advice, and covers only federal, not state law (August 14, 2002). ED 2012",
+      "char_count": 671,
+      "line_count": 10,
+      "is_signature_section": false
+    },
+    {
+      "section_index": 27,
+      "section_title": "--- PAGE 5 ---",
+      "content": "560 S. Broadway\nHicksville, NY 11801\nPatient Full Name: _________________________\nDate: _________________________",
+      "char_count": 113,
+      "line_count": 4,
+      "is_signature_section": false
+    },
+    {
+      "section_index": 29,
+      "section_title": "Please read the terms of our financial policy below. Your signature below indicates you",
+      "content": "understand and agree with this policy.\n1. Payment for services is due at the time services are rendered unless prior arrangements\nhave been made. Any payment owed will be collected prior to being seen by your\nprovider.\n2. We accept the following forms of payment: Cash, Check, Credit Cards (Visa,\nMasterCard, Discover and American Express) and Debit Cards.\na. Checks that are returned to our office from your financial institution are subject to a\n$25.00 returned check fee. This fee covers the processing fees that are charged to our\noffice.\n3. In addition, we offer CareCredit & Lending Club, both patient payment programs,\nproviding a full range of No Interest and Extended Payment Plans for all patients and\ntreatments.\n4. No refunds will be issued once treatment plan has been approved and commenced.\n5. We accept most dental insurances:\nb. Please note that having active insurance coverage does not mean a guarantee of\npayment in full. Payment will be determined at the time the claim is processed by\nyour insurance carrier.\nc. YOU ARE RESPONSIBLE for any amount not covered by your dental plan, such as,\ndeductibles, co-payments and additional services. These are due at the time of\ntreatment.\n6. National Dental also offers the NATIONAL DENTAL MEMBERSHIP PLAN designed\nfor your specific needs. Be sure to ask a National Dental team member how you and your\nfamily can benefit from this program.\n_________________________________ _________________________\nSignature of Patient or Responsible Party National Dental Representative",
+      "char_count": 1534,
+      "line_count": 25,
+      "is_signature_section": true
+    },
+    {
+      "section_index": 31,
+      "section_title": "GENERAL CONSENT TO PERFORM DENTISTRY",
+      "content": "1. I hereby authorize and direct the dentist(s) of National Dental PLLC. to perform the following dental treatment or\noral surgery procedure(s), including the use of any necessary or advisable local anesthesia, radiographs, or\ndiagnostic aids:\n Consult with examination for future treatment.\n Preventive hygiene treatment (prophylaxis), and the application of topical fluoride.\n Application of plastic “sealants” to the grooves of the teeth.\n Treatment of diseased or injured teeth with dental restorations (fillings, crowns, and onlays).\n Treatment of diseased or injured teeth with endodontic (root canal) therapy if needed.\n**Breakage of dental instruments inside tooth canals requiring additional treatment.\n Replacement of missing teeth with dental prostheses (i.e. implants, bridges, partials, and full dentures).\n Removal (extraction) of one or more teeth.\n**Involvement of the nerves during oral surgery or administration of local anesthesia resulting in temporary\nor possible permanent numbness or tingling of the lip, chin, tongue, or other areas of the face or neck.\n**Sinus involvement during the removal of upper molars, which may require additional treatment or\nsurgical repair at a later date or by an oral surgeon.\n**Incomplete removal of tooth fragments to avoid injury to vital structures such as nerves or sinus,\noccasionally small root tips may be left in place.\n**Jaw fracture- While quite rare, it is possible in difficult or deeply impacted teeth.\n Treatment of diseased or injured oral tissue (hard and/or soft).\n Use of sedative drugs to control apprehension and/or disruptive behavior.\n Treatment of malposed (crooked) teeth and/or oral development of growth abnormalities.\n2.I understand that there are risks involved in this treatment, and hereby acknowledge that these risks will be\nexplained to me. I will have an opportunity to ask questions regarding the treatment and the risks, and that I fully\nunderstand the same.\n3.I will be advised that the success of the dental treatment to be provided will require that the patient and/or parents\nof the patient to follow post-care instructions of the dentist. I agree that the success of the treatment requires that",
+      "char_count": 2200,
+      "line_count": 26,
+      "is_signature_section": false
+    },
+    {
+      "section_index": 32,
+      "section_title": "all post-operative and post-care instructions be followed and that regular office visits as scheduled by my dentist",
+      "content": "and his auxiliaries must be maintained.\n4.I recognize that during the course of treatment unforeseen circumstances may necessitate additional or different\nprocedures from those discussed. I, therefore, authorize and request the performances of any additional\nprocedures that are deemed necessary for desirable oral health and well being, in the professional judgment of the\ndentist.",
+      "char_count": 382,
+      "line_count": 5,
+      "is_signature_section": false
+    },
+    {
+      "section_index": 33,
+      "section_title": "5.There are possible risks and complications associated with the administration of local anesthesia, sedation, and",
+      "content": "drugs. The most common of these are swelling, bleeding, pain, nausea, vomiting, bruising, tingling, and numbness\nof the lips, gums, face and tongue, allergic reactions, hematoma (swelling or bleeding at or near the injection site),\nfainting, lip or cheek biting resulting in ulceration and infection of the mucosa. I also understand that there are rare\npotential risks such as unfavorable reactions to medications in respiratory and cardiovascular collapse (stopping of\nbreathing and heart function) and lack of oxygen to the brain that could result in coma or death. I understand and",
+      "char_count": 584,
+      "line_count": 5,
+      "is_signature_section": false
+    },
+    {
+      "section_index": 34,
+      "section_title": "have been informed of the above risks and complications.",
+      "content": "6.I agree to the use of local anesthesia and the use of nitrous oxide/oxygen analgesia depending on the judgment of\nthe doctor. Nitrous oxide/oxygen may occasionally produce nausea and vomiting. I am also aware that the nose\npiece leaves an indention or ring around the nose, which disappears shortly after procedure. I understand and have",
+      "char_count": 339,
+      "line_count": 3,
+      "is_signature_section": false
+    },
+    {
+      "section_index": 35,
+      "section_title": "been informed of the above risks and complications.",
+      "content": "7.I also authorize the doctor to use anonymized photographs, radiographs, other diagnostic materials, and treatment\nrecords for the purpose of teaching, research, and scientific publications.\n8.I hereby state that I have read and understand this consent, and that all questions about the procedures will be\nanswered in a satisfactory manner; and I understand that I have the right to be provided an answer to the questions\nwhich may arise during and after the course of my treatment.\n9.I further understand that this consent will remain in effect until such time that I choose to terminate it.\n(x)_______________________________________________ ( x)______________________________________________\nPrint Patient’s Name Print Name of Parent or Guardian (if applicable)\n(x)_______________________________________________ ( x)______________________________________________\nSignature of Patient or Parent/Guardian Date Witness Signature Date",
+      "char_count": 935,
+      "line_count": 10,
+      "is_signature_section": false
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "schema_version": "1.0",
+  "document_type": "mixed",
+  "source_file": "new_patient_package_intake.txt",
+  "procedure": {
+    "name": "new",
+    "description": ""
+  },
+  "risks_and_complications": [
+    "2.I understand that there are risks involved in this treatment, and hereby acknowledge that these risks will be",
+    "explained to me. I will have an opportunity to ask questions regarding the treatment and the risks, and that I fully",
+    "drugs. The most common of these are swelling, bleeding, pain, nausea, vomiting, bruising, tingling, and numbness",
+    "of the lips, gums, face and tongue, allergic reactions, hematoma (swelling or bleeding at or near the injection site),",
+    "fainting, lip or cheek biting resulting in ulceration and infection of the mucosa. I also understand that there are rare",
+    "potential risks such as unfavorable reactions to medications in respiratory and cardiovascular collapse (stopping of",
+    "breathing and heart function) and lack of oxygen to the brain that could result in coma or death. I understand and",
+    "6.I agree to the use of local anesthesia and the use of nitrous oxide/oxygen analgesia depending on the judgment of",
+    "the doctor. Nitrous oxide/oxygen may occasionally produce nausea and vomiting. I am also aware that the nose",
+    "piece leaves an indention or ring around the nose, which disappears shortly after procedure. I understand and have",
+    "7.I also authorize the doctor to use anonymized photographs, radiographs, other diagnostic materials, and treatment",
+    "records for the purpose of teaching, research, and scientific publications.",
+    "8.I hereby state that I have read and understand this consent, and that all questions about the procedures will be",
+    "answered in a satisfactory manner; and I understand that I have the right to be provided an answer to the questions",
+    "which may arise during and after the course of my treatment.",
+    "9.I further understand that this consent will remain in effect until such time that I choose to terminate it.",
+    "(x)_______________________________________________ ( x)______________________________________________",
+    "Print Patient’s Name Print Name of Parent or Guardian (if applicable)",
+    "Signature of Patient or Parent/Guardian Date Witness Signature Date"
+  ],
+  "alternatives_to_treatment": [],
+  "medications_and_sedation": {
+    "mentioned": true,
+    "warnings": [
+      "Your physician: Date of last visit: Have you ever taken Fen-Phen/Redux? Yes No Have you ever taken Fosamax, Boniva, Actonel or any cancer medications containing bisphosphonates? Yes No Have you had any serious illnesses or operations? Yes No If yes, describe: Have you ever had a blood transfusion? Yes No If yes, give approximate dates: Do you snore? Yes No Have you had a sleep study? Yes No Women: are you pregnant? Yes No Are you nursing? Yes No Are you taking birth control? Yes No Check if you have or have had any of the following: Anemia Fainting Pacemaker Arthritis, rheumatism Glaucoma Radiation treatment Artificial heart valves Headaches Respiratory disease Heart murmur Rheumatic fever Asthma Heart problems Scarlet fever Bleeding abnormally Hemophilia Sexually transmitted disease Blood Disease Hepatitis Stroke Cancer High blood pressure Swelling of feet or ankles Chemical dependency HIV or AIDS Chemotherapy Jaw pain Tobacco use Circulatory Problems Kidney disease Tonsillitis Congenital heart lesions Liver disease Tuberculosis Diabetes Mitral valve prolapse Ulcer Epilepsy Osteoporosis List medications (including non-prescription medication) you are currently taking and the correlating diagnosis: Medication Diagnosis Please list any allergies you may have: Allergy Allergy To the best of my knowledge, the above information is complete and correct. I understand that it is my responsibility to inform my doctor if I or my minor child has a change in health. Patient or Guardian Signature Date",
+      "1. I hereby authorize and direct the dentist(s) of National Dental PLLC. to perform the following dental treatment or oral surgery procedure(s), including the use of any necessary or advisable local anesthesia, radiographs, or diagnostic aids:  Consult with examination for future treatment.  Preventive hygiene treatment (prophylaxis), and the application of topical fluoride.  Application of plastic “sealants” to the grooves of the teeth.  Treatment of diseased or injured teeth with dental restorations (fillings, crowns, and onlays).  Treatment of diseased or injured teeth with endodontic (root canal) therapy if needed. **Breakage of dental instruments inside tooth canals requiring additional treatment.  Replacement of missing teeth with dental prostheses (i.e. implants, bridges, partials, and full dentures).  Removal (extraction) of one or more teeth. **Involvement of the nerves during oral surgery or administration of local anesthesia resulting in temporary or possible permanent numbness or tingling of the lip, chin, tongue, or other areas of the face or neck. **Sinus involvement during the removal of upper molars, which may require additional treatment or surgical repair at a later date or by an oral surgeon. **Incomplete removal of tooth fragments to avoid injury to vital structures such as nerves or sinus, occasionally small root tips may be left in place. **Jaw fracture- While quite rare, it is possible in difficult or deeply impacted teeth.  Treatment of diseased or injured oral tissue (hard and/or soft).  Use of sedative drugs to control apprehension and/or disruptive behavior.  Treatment of malposed (crooked) teeth and/or oral development of growth abnormalities. 2.I understand that there are risks involved in this treatment, and hereby acknowledge that these risks will be explained to me. I will have an opportunity to ask questions regarding the treatment and the risks, and that I fully understand the same. 3.I will be advised that the success of the dental treatment to be provided will require that the patient and/or parents of the patient to follow post-care instructions of the dentist. I agree that the success of the treatment requires that",
+      "drugs. The most common of these are swelling, bleeding, pain, nausea, vomiting, bruising, tingling, and numbness",
+      "of the lips, gums, face and tongue, allergic reactions, hematoma (swelling or bleeding at or near the injection site),",
+      "fainting, lip or cheek biting resulting in ulceration and infection of the mucosa. I also understand that there are rare",
+      "potential risks such as unfavorable reactions to medications in respiratory and cardiovascular collapse (stopping of",
+      "breathing and heart function) and lack of oxygen to the brain that could result in coma or death. I understand and",
+      "6.I agree to the use of local anesthesia and the use of nitrous oxide/oxygen analgesia depending on the judgment of the doctor. Nitrous oxide/oxygen may occasionally produce nausea and vomiting. I am also aware that the nose piece leaves an indention or ring around the nose, which disappears shortly after procedure. I understand and have"
+    ]
+  },
+  "patient_responsibilities": [
+    "c. YOU ARE RESPONSIBLE for any amount not covered by your dental plan, such as,"
+  ],
+  "right_to_refuse": {
+    "present": false,
+    "text": ""
+  },
+  "authorization": {
+    "present": true,
+    "text": "1. I hereby authorize and direct the dentist(s) of National Dental PLLC. to perform the following dental treatment or oral surgery procedure(s), including the use of any necessary or advisable local anesthesia, radiographs, or diagnostic aids:  Consult with examination for future treatment.  Preventive hygiene treatment (prophylaxis), and the application of topical fluoride.  Application of plastic “sealants” to the grooves of the teeth.  Treatment of diseased or injured teeth with dental restorations (fillings, crowns, and onlays).  Treatment of diseased or injured teeth with endodontic (root canal) therapy if needed. **Breakage of dental instruments inside tooth canals requiring additional treatment.  Replacement of missing teeth with dental prostheses (i.e. implants, bridges, partials, and full dentures).  Removal (extraction) of one or more teeth. **Involvement of the nerves during oral surgery or administration of local anesthesia resulting in temporary or possible permanent numbness or tingling of the lip, chin, tongue, or other areas of the face or neck. **Sinus involvement during the removal of upper molars, which may require additional treatment or surgical repair at a later date or by an oral surgeon. **Incomplete removal of tooth fragments to avoid injury to vital structures such as nerves or sinus, occasionally small root tips may be left in place. **Jaw fracture- While quite rare, it is possible in difficult or deeply impacted teeth.  Treatment of diseased or injured oral tissue (hard and/or soft).  Use of sedative drugs to control apprehension and/or disruptive behavior.  Treatment of malposed (crooked) teeth and/or oral development of growth abnormalities. 2.I understand that there are risks involved in this treatment, and hereby acknowledge that these risks will be explained to me. I will have an opportunity to ask questions regarding the treatment and the risks, and that I fully understand the same. 3.I will be advised that the success of the dental treatment to be provided will require that the patient and/or parents of the patient to follow post-care instructions of the dentist. I agree that the success of the treatment requires that"
+  },
+  "signature": {
+    "required": true,
+    "guardian_allowed": true
+  }
+}

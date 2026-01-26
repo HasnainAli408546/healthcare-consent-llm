@@ -1,0 +1,28 @@
+{
+  "document_type": "consent",
+  "procedure": {
+    "name": "dental implant placement"
+  },
+  "risks_and_complications": [
+    "Drug reactions and side effects.",
+    "Post-operative pain, bleeding, oozing, infection and/or bone infection.",
+    "Bruising and/or swelling, delayed healing, restricted mouth opening for several days or weeks.",
+    "Damage to adjacent teeth or tooth restorations.",
+    "Possible involvement of the sinus cavity and creation of an opening from the mouth into the nasal or sinus cavity, which may require additional treatment or surgical repair at a later date.",
+    "Nerve injury, which may occur from the surgical procedure and/or the delivery of local anesthesia, resulting in altered or loss sensation, numbness, pain, or altered feeling in the face, cheek(s), lips, chin, teeth, gums, and/or tongue (including loss of taste).",
+    "Inability to place the implant due to the local anatomy or implant failure.",
+    "Discoloration and appearance changes of the gum tissue or unsatisfactory cosmetic result.",
+    "Bone loss around the implant(s) and/or adjacent teeth, which may result in loss of implant and/or adjacent teeth and which may necessitate bone grafting",
+    "Jaw fracture.",
+    "Swelling, jaw muscle tenderness or even resultant numbness of the tongue, lips, teeth, jaws and/or facial tissues, which is typically temporary, but in rare instances, may be permanent."
+  ],
+  "alternatives_to_treatment": [
+    "Alternative methods of treatment have been explained to me, such as: ________________________"
+  ],
+  "authorization": {
+    "present": true
+  },
+  "signature": {
+    "required": true
+  }
+}

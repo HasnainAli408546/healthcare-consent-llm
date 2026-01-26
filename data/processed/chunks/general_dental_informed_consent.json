@@ -1,0 +1,137 @@
+{
+  "source_file": "general_dental_informed_consent.txt",
+  "document_type": "consent",
+  "has_sections": true,
+  "section_count": 16,
+  "total_char_count": 8327,
+  "sections": [
+    {
+      "section_index": 1,
+      "section_title": "Informed Consent Form for General Dental Procedures",
+      "content": "You the patient have the right to accept or reject dental treatment recommended by your dentist. Prior to\nconsenting to treatment, you should carefully consider the anticipated benefits and commonly known\nrisks of the recommended procedure, alternative treatments, or the option of no treatment.",
+      "char_count": 295,
+      "line_count": 3,
+      "is_signature_section": false
+    },
+    {
+      "section_index": 2,
+      "section_title": "Please do not consent to treatment unless and until you discuss potential benefits, risks, and complications",
+      "content": "with your dentist and all of your questions are answered. By consenting to treatment, you acknowledge",
+      "char_count": 101,
+      "line_count": 1,
+      "is_signature_section": false
+    },
+    {
+      "section_index": 3,
+      "section_title": "your willingness to accept known risks and complications, no matter how slight the probability of",
+      "content": "occurrence.\nIt is very important that you provide your dentist with accurate information before, during and after\ntreatment. It is equally important that you follow your dentist’s advice and recommendations regarding\nmedication, pre and post treatment instructions, referrals to other dentists or specialists, and return for\nscheduled appointments. If you fail to follow the advice of your dentist, you may increase the chances of\na poor outcome.\nIf you are a woman on oral birth control medication you must consider the fact that antibiotics might\nmake oral birth control less effective. Please consult with your physician before relying on oral birth\ncontrol medication if your dentist prescribes, or if you are taking antibiotics.",
+      "char_count": 733,
+      "line_count": 9,
+      "is_signature_section": false
+    },
+    {
+      "section_index": 4,
+      "section_title": "1. EXAMINATION AND X-RAYS",
+      "content": "I understand that the initial visit may require radiographs in order to complete the examination,\ndiagnosis, and treatment plan. ___________ Please Initial",
+      "char_count": 155,
+      "line_count": 2,
+      "is_signature_section": false
+    },
+    {
+      "section_index": 5,
+      "section_title": "2. DRUGS, MEDICATION, AND SEDATION",
+      "content": "I have been informed and understand that antibiotic, analgesics, and other medications can cause allergic\nreactions causing redness, swelling of tissues, pain, itching, vomiting, and/or anaphylactic shock (severe\nallergic reaction). They may cause drowsiness and a lack of awareness and coordination, which can be\nincreased by the use of alcohol or other drugs. I understand and fully agree not to operate any vehicle or\nhazardous device for at least 12 hours or until fully recovered from the effects of the anesthetic\nmedication and drugs that may have been given me in the office for my treatment. I understand that\nfailure to take medications prescribed for me in the manner prescribed may offer risks of continued or\naggravated infection, pain, and potential resistance to effect treatment of my condition. I understand that\nantibiotics can reduce the effectiveness of oral contraceptives. ____________ Please Initial",
+      "char_count": 922,
+      "line_count": 9,
+      "is_signature_section": false
+    },
+    {
+      "section_index": 6,
+      "section_title": "3. CHANGES IN TREATMENT PLAN",
+      "content": "I understand that during treatment, it may be necessary to change or add procedures because found while\nworking on teeth that were not discovered during the initial examination, the most common being root\ncanal therapy following routine restorative procedures. I give my permission to the Dentist to make any or\nall changes and additions as necessary._________ Please Initial",
+      "char_count": 375,
+      "line_count": 4,
+      "is_signature_section": false
+    },
+    {
+      "section_index": 8,
+      "section_title": "4. TEMPOROMANDIBULAR JOINT DYSFUNCTIONS (TMJ)",
+      "content": "I understand that symptoms of popping, clicking, locking and pain can intensify or develop in the joint of\nthe lower (near the ear) subsequent to routine dental treatment wherein the mouth is held in the open\nposition. However, symptoms of TMJ associated with dental treatment are usually temporary in nature\nand well tolerated by most patients. I understand that should the need for treatment arise, I will be referred\nto a specialist for treatment, the cost of which is my responsibility. ___________ Please Initial",
+      "char_count": 517,
+      "line_count": 5,
+      "is_signature_section": false
+    },
+    {
+      "section_index": 9,
+      "section_title": "5. FILLINGS AND RESTORATIONS",
+      "content": "I understand that care must be exercised in chewing on the new filling during the first 24 hours to avoid\nbreakage, and tooth sensitivity is a common after-effect of a newly placed filling._________ Please\nInitial",
+      "char_count": 213,
+      "line_count": 3,
+      "is_signature_section": false
+    },
+    {
+      "section_index": 10,
+      "section_title": "6. REMOVAL OF TEETH (EXTRACTION)",
+      "content": "An alternative to removal has been explained to me (root canal therapy, crowns, periodontal surgery, etc.)\nand I authorize the Dentist to remove the following teeth and any others necessary for the reasons in\nparagraph #3. I understand removing teeth does not always remove all infection if present and it may be\nnecessary to have further treatment. I understand the risks involved in having teeth removed, some of\nwhich are pain, swelling, and spread of infection, dry socket, loss of feeling in my teeth, lips, tongue, and\nsurrounding tissue (parasthesia) that can last for a period of time or a fractured jaw. I understand I may\nneed further treatment by a specialist or even hospitalization if complications arise during or following\ntreatment, the cost of which is my responsibility. _________ Please Initial",
+      "char_count": 813,
+      "line_count": 8,
+      "is_signature_section": false
+    },
+    {
+      "section_index": 11,
+      "section_title": "7. CROWNS, BRIDGES, VENEERS, AND BONDING",
+      "content": "I understand that sometimes it is not possible to match the color of natural teeth exactly with artificial\nteeth. I further understand that I may be wearing temporary crowns, which may come off easily and that I\nmust be careful to ensure that they are kept on until the permanent crowns are delivered. I realized that the\nfinal opportunity to make changes in my new crowns, bridge or veneer (including shape, fit, size,\nplacement, and color) will be done before cementation. It explained to me that, in very few cases,\ncosmetic procedures may result in the need for future root canal treatment, which cannot always be\npredicted or anticipated. I understand that cosmetic procedures may affect tooth surfaces and may require\nmodification of daily cleaning procedures. __________ Please Initial",
+      "char_count": 792,
+      "line_count": 8,
+      "is_signature_section": false
+    },
+    {
+      "section_index": 12,
+      "section_title": "8. DENTURES – COMPLETE OR PARTIAL",
+      "content": "I realize that full or partial dentures are artificial, constructed of plastic, metal and or porcelain.\nThe potential problems of wearing those appliances have been explained to me, including looseness,\nsoreness, and possible breakage. I realize the final opportunity to make changes in my new denture\n(including shape, fit, size, placement, and color) will be “teeth in wax” try-in visit. I understand that most\ndentures require relining approximately three to twelve months after. The cost of this procedure is not the\ninitial denture fee. __________ Please Initial",
+      "char_count": 567,
+      "line_count": 6,
+      "is_signature_section": false
+    },
+    {
+      "section_index": 13,
+      "section_title": "9. ENDODONTIC TREATMENT (ROOT CANAL)",
+      "content": "I realize there is no guarantee that root canal treatment will save my tooth and those complications can\noccur from the treatment and that occasionally posts are cemented in the tooth, or extend through the root,\nwhich does not necessarily affect the success of the treatment. I understand that occasionally additional",
+      "char_count": 318,
+      "line_count": 3,
+      "is_signature_section": false
+    },
+    {
+      "section_index": 14,
+      "section_title": "--- PAGE 3 ---",
+      "content": "surgical procedures may be necessary following root canal treatment (apicoectomy). __________ Please\nInitial",
+      "char_count": 108,
+      "line_count": 2,
+      "is_signature_section": false
+    },
+    {
+      "section_index": 15,
+      "section_title": "10. PERIODONTAL TREATMENT",
+      "content": "I understand that I have a serious condition causing gum inflammation and/or bone loss and that it can\nlead to the loss of my teeth. Alternative treatment plans have been explained to me, including non-\nsurgical cleaning, gum surgery and/or extractions. I understand the success of treatment depends in part\non my efforts to brush and floss daily, receive regular cleaning as directed, following a healthy diet, avoid\ntobacco products and follow other recommendations. __________ Please Initial\nCONSENT: I understand that dentistry is not an exact science, therefore: reputable parishioners cannot\nproperly guarantee results. I acknowledge that no guarantee or assurance has been made by anyone\nregarding the dental treatment which I have requested and authorized. I understand that each Dentist is an\nindividual practitioner and is individually responsible for the dental care rendered to me. I also understand\nthat no other Dentist other than the treating Dentist is responsible for my dental treatment.",
+      "char_count": 1005,
+      "line_count": 10,
+      "is_signature_section": false
+    },
+    {
+      "section_index": 16,
+      "section_title": "This form is intended to provide you with an overview of potential risks and complications. Do not sign",
+      "content": "this form or agree to treatment until you have read, understood, and accepted each paragraph stated",
+      "char_count": 99,
+      "line_count": 1,
+      "is_signature_section": false
+    },
+    {
+      "section_index": 17,
+      "section_title": "above. Please discuss the potential benefits, risks, and complications of recommended treatment with your",
+      "content": "dentist. Be certain your dentist has addressed all of your concerns to your satisfaction before commencing\ntreatment.\nPatient Signature and Date: __________________________________________________________\nPrint Patient Name: _________________________________________________________________\nParent/Legal Guardian Name and Date: ______________________________________________\nWitness Sign and Date: ______________________________________________________________",
+      "char_count": 460,
+      "line_count": 6,
+      "is_signature_section": false
+    }
+  ]
+}

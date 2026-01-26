@@ -1,0 +1,26 @@
+{
+  "document_type": "consent",
+  "procedure": {
+    "name": "Composite Restoration"
+  },
+  "risks_and_complications": [
+    "Drug reactions and side effects.",
+    "Damage to adjacent teeth or tooth restorations.",
+    "Necessity for root canal therapy due to injury of pulp tissue.",
+    "Breakage or dislodgement in buildup failure of restorative material.",
+    "Necessity for a more extensive restoration, such as a crown, than originally diagnosed, due to additional decay or unsupported tooth structure found during preparation.",
+    "Inability to exactly match tooth coloration.",
+    "Changes in the shade of the composite restoration over time as a result of the oral environment.",
+    "Sensitivity of teeth.",
+    "Swelling, jaw muscle tenderness or even resultant numbness of the tongue, lips, teeth, jaws and/or facial tissues, which is typically temporary, but in rare instances, may be permanent."
+  ],
+  "alternatives_to_treatment": [
+    "Alternative methods of treatment have been explained to me, such as: ________________________"
+  ],
+  "authorization": {
+    "present": true
+  },
+  "signature": {
+    "required": true
+  }
+}

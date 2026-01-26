@@ -1,0 +1,47 @@
+{
+  "document_type": "tooth_extraction_informed_consent",
+
+  "procedure": {
+    "name": "Extraction of Teeth",
+    "description": "Surgical removal of one or more teeth."
+  },
+
+  "irreversibility_statement": {
+    "present": true,
+    "description": "Extraction of teeth is an irreversible surgical procedure."
+  },
+
+  "teeth_identification": {
+    "present": true,
+    "description": "Specific teeth to be extracted are listed by the provider."
+  },
+
+  "risks_and_complications": [
+    "Swelling, bruising, and discomfort at the surgical site",
+    "Stretching or cracking at the corners of the mouth",
+    "Infection requiring additional treatment",
+    "Dry socket requiring post-operative care",
+    "Damage to adjacent teeth or restorations",
+    "Temporary or permanent numbness or altered sensation of lips, tongue, chin, or gums",
+    "Trismus or limited jaw opening",
+    "Bleeding or prolonged oozing",
+    "Sharp bone edges or bone splinters requiring additional surgery",
+    "Incomplete removal of tooth fragments",
+    "Sinus involvement requiring additional care or repair",
+    "Jaw fracture in rare cases"
+  ],
+
+  "initialing_required": {
+    "present": true,
+    "description": "Patient initials each risk acknowledgment paragraph."
+  },
+
+  "signature": {
+    "required": true,
+    "fields": [
+      "Patient or Parent/Guardian Signature",
+      "Date",
+      "Witness Signature"
+    ]
+  }
+}

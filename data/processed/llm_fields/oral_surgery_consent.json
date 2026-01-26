@@ -1,0 +1,30 @@
+{
+  "document_type": "consent",
+  "procedure": {
+    "name": "oral surgery"
+  },
+  "risks_and_complications": [
+    "Drug reactions and side effects.",
+    "Post – operative bleeding, oozing, infection and/or bone inflammation.",
+    "Bruising and/or swelling, restricted mouth opening for several days or weeks.",
+    "Removal of bone during tooth extraction.",
+    "Damage to adjacent teeth or tooth restorations.",
+    "Root tips sometimes break during the oral surgery process.",
+    "Delayed healing, including but not limited to, dry socket, necessitating post operative care.",
+    "Possible involvement of the sinus during the removal of the upper posterior teeth, which may require additional treatment or surgical repair at a later date.",
+    "Possible involvement of the nerve of the lower jaw during the removal of the lower back teeth resulting in temporary or permanent tingling / numbness of the lower lip, chin, tongue or other surrounding structures.",
+    "Jaw fracture.",
+    "Poor bone healing or bone death that may never completely resolve if taking medications to make your bones stronger (such as bisphosphonates) or if you have received radiation therapy to the head or neck area for tumors / cancer."
+  ],
+  "alternatives_to_treatment": [
+    "no treatment",
+    "deferring treatment",
+    "referral to specialist"
+  ],
+  "authorization": {
+    "present": true
+  },
+  "signature": {
+    "required": true
+  }
+}

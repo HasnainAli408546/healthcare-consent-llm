@@ -1,0 +1,25 @@
+{
+  "source_file": "patient_intake_form_admin.txt",
+  "document_type": "intake",
+  "has_sections": true,
+  "section_count": 2,
+  "total_char_count": 1870,
+  "sections": [
+    {
+      "section_index": 2,
+      "section_title": "FOR OFFICE USE ONLY",
+      "content": "Date:\nPatient Name:\nParent or Legal Guardian’s Name:\nAddress:\nEmail:\nCell Phone: Home Phone: Work Phone:\nContact Preference: Cell Text Home Phone Work phone Email\nHow did you hear about our office? Referral Website Signage Coupon\nOther\nReferral Source:\nAre you experiencing any dental problems or have any dental concerns?\nPain? Constant Occasional Where?\nSwelling? Where?\nAre you under the care of a physician? Yes No\nWhen was your last dental visit? Are x-rays available?\nName of previous dentist: Phone Number:\nAddress:\nDo you have a dental benefit plan? Yes No\nIf Yes:\nMember ID Number: Group Number:\nName of policy holder:\nPolicy holder’s relationship to the patient:",
+      "char_count": 672,
+      "line_count": 22,
+      "is_signature_section": false
+    },
+    {
+      "section_index": 3,
+      "section_title": "--- PAGE 2 ---",
+      "content": "Policy holder’s birthdate:\nPolicy holder’s employer:\nInsurance company:\nAddress:\nPhone number and/or insurance company website:\nScheduled appointment date:\nVerification of Eligibility and Benefits by:\nElectronic Fax Verbal\nVerification scanned, Saved or written in record date:\nMaximum Benefits/Year: $\nDeductible amount: $\nHas deductible been met? Yes No\nDoes deductible apply to preventive services? Yes No\nDetermine frequency of preventive services: Twice per year Once every six 6 months\nOther\nDate of last radiographs:\nPrior tooth loss restrictions:\nAny other restrictions or limitations:\nBenefits remaining for benefit year:\nAdditional information:\n© ADA 2015. Reproduction of this material by ADA member dentists and their staff is permitted. Any other use,\nduplication or distribution by any other party requires the prior written approval of the American Dental Association.\nThis material is educational only, does not constitute legal advice, and may not satisfy applicable state law.\nChanges in applicable laws or regulations may require revision. Contact a qualified lawyer or professional\nfor legal or professional advice.",
+      "char_count": 1135,
+      "line_count": 25,
+      "is_signature_section": false
+    }
+  ]
+}

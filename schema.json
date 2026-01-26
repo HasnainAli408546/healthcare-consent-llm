@@ -1,0 +1,44 @@
+{
+    "schema_version": "1.0",
+    "document_type": "consent",
+  
+    "procedure": {
+      "name": "string",
+      "description": "string"
+    },
+  
+    "risks_and_complications": [
+      "string"
+    ],
+  
+    "alternatives_to_treatment": [
+      "string"
+    ],
+  
+    "medications_and_sedation": {
+      "mentioned": "boolean",
+      "warnings": [
+        "string"
+      ]
+    },
+  
+    "patient_responsibilities": [
+      "string"
+    ],
+  
+    "right_to_refuse": {
+      "present": "boolean",
+      "text": "string"
+    },
+  
+    "authorization": {
+      "present": "boolean",
+      "text": "string"
+    },
+  
+    "signature": {
+      "required": "boolean",
+      "guardian_allowed": "boolean"
+    }
+  }
+  

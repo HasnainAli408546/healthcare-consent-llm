@@ -1,0 +1,28 @@
+{
+  "document_type": "intake",
+  "procedure": {
+    "name": null
+  },
+  "risks_and_complications": [
+    "swelling",
+    "bleeding",
+    "pain",
+    "nausea",
+    "vomiting",
+    "bruising",
+    "tingling",
+    "numbness of the lips, gums, face and tongue",
+    "allergic reactions",
+    "hematoma (swelling or bleeding at or near the injection site)",
+    "fainting",
+    "lip or cheek biting resulting in ulceration and infection of the mucosa",
+    "unfavorable reactions to medications in respiratory and cardiovascular collapse (stopping of breathing and heart function) and lack of oxygen to the brain that could result in coma or death"
+  ],
+  "alternatives_to_treatment": [],
+  "authorization": {
+    "present": true
+  },
+  "signature": {
+    "required": true
+  }
+}

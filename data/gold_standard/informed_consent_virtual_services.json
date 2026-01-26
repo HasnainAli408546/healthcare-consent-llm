@@ -1,0 +1,74 @@
+{
+  "document_type": "virtual_teledentistry_informed_consent",
+
+  "service_description": {
+    "present": true,
+    "description": "Remote dental evaluations and re-evaluations conducted via secure or permitted electronic communication technologies."
+  },
+
+  "technology_used": {
+    "present": true,
+    "modalities": [
+      "Secure email",
+      "Video conferencing platforms",
+      "Photo or video transmission via patient smartphone"
+    ],
+    "restricted_platforms": [
+      "Facebook Live",
+      "Twitch",
+      "TikTok"
+    ]
+  },
+
+  "purpose_of_service": {
+    "present": true,
+    "description": "Problem-focused evaluation to assess oral health concerns and determine the need for in-office treatment."
+  },
+
+  "limitations_of_virtual_care": {
+    "present": true,
+    "description": "Remote evaluations may not reveal conditions that would be discovered during in-office examination or specialized teledentistry technology."
+  },
+
+  "privacy_and_confidentiality": {
+    "present": true,
+    "description": "Dental office will make reasonable efforts to protect patient information, but electronic communication carries inherent privacy risks."
+  },
+
+  "hipaa_disclosure": {
+    "present": true,
+    "description": "Temporary relaxation of HIPAA enforcement during the COVID-19 public health emergency for good-faith provision of telehealth services."
+  },
+
+  "risk_acknowledgement": {
+    "present": true,
+    "description": "Patient acknowledges increased confidentiality risk associated with non-encrypted electronic communications."
+  },
+
+  "insurance_and_billing": {
+    "present": true,
+    "description": "Dental plans may reimburse for remote evaluations; claims may be submitted to insurance providers."
+  },
+
+  "consent_duration": {
+    "present": true,
+    "description": "Consent remains effective until HIPAA enforcement suspension is rescinded by the government."
+  },
+
+  "patient_acknowledgement": {
+    "present": true,
+    "description": "Patient affirms understanding of telehealth risks, limitations, and terms."
+  },
+
+  "signature": {
+    "required": true,
+    "signature_type": "typed",
+    "fields": [
+      "Typed Patient Name",
+      "Date of Birth",
+      "Date",
+      "Witness Signature",
+      "Chart Number"
+    ]
+  }
+}

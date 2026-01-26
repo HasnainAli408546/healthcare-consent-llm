@@ -1,0 +1,17 @@
+{
+  "source_file": "periodontal_treatment_refusal_consent.txt",
+  "document_type": "consent",
+  "has_sections": true,
+  "section_count": 1,
+  "total_char_count": 746,
+  "sections": [
+    {
+      "section_index": 1,
+      "section_title": "PERIODONTAL TREATMENT REFUSAL FORM",
+      "content": "I, ______________________________________________ have been informed by the treating\ndentist and hygienist that I have periodontal disease. I understand that without a periodontal\nscaling and root planing my condition will not improve and could possibly worsen, causing\npotential tooth and bone loss. I am declining the option to have the periodontal cleaning done,\nthereby relieving (Health Center) and any of the providers of any liability, should these\nconditions develop.\nPatient Signature: __________________________________ Date: ___________________\nProvider Signature: _________________________________ Date: ___________________\nWitness: _________________________________________ Date:___________________",
+      "char_count": 711,
+      "line_count": 9,
+      "is_signature_section": false
+    }
+  ]
+}

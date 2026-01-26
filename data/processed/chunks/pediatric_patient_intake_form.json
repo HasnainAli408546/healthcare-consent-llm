@@ -1,0 +1,49 @@
+{
+  "source_file": "pediatric_patient_intake_form.txt",
+  "document_type": "intake",
+  "has_sections": true,
+  "section_count": 5,
+  "total_char_count": 1974,
+  "sections": [
+    {
+      "section_index": 1,
+      "section_title": "WELCOME",
+      "content": "to our practice! We strive to make each of your child’s visits pleasant and\ncomfortable. Our goal is to teach oral habits which will help keep your child’s smile beautiful\nfor their lifetime.",
+      "char_count": 191,
+      "line_count": 3,
+      "is_signature_section": false
+    },
+    {
+      "section_index": 2,
+      "section_title": "YOUR CHILD RESPONSIBLE PARTY",
+      "content": "Child’s Name ___________________________ Name __________________________\nNickname ______________________________ Relationship _____________________\nDate of Birth ____/___ / _____Age__________ Mailing Address __________________\nSchool _________________________________ _ ______________________________\nSex: M______ F________ Physical Address_________________\nChild’s mailing address ___________________ _________________________________\n______________________________________ ________________________________\nPhone # ________________________________ Home phone # ____________________\nCell phone # _____________________",
+      "char_count": 617,
+      "line_count": 9,
+      "is_signature_section": false
+    },
+    {
+      "section_index": 3,
+      "section_title": "DENTAL INSURANCE Work phone # ___________________",
+      "content": "Insured’s Name __________________________ Employer _______________________\nInsured’s Employer ______________________ Occupation ______________________\nRelationship ___________________________ SSN#__________________________\nDate of Birth ___________________________\nInsurance Company ______________________\nGroup # _____________________________\nSocial Security #_________________________\nIn the event of an emergency, who should we contact? Who can we thank for referring\nName _________________________________ you to us?\nRelationship ___________________________ _________________________\nPhone number ___________________________",
+      "char_count": 628,
+      "line_count": 11,
+      "is_signature_section": false
+    },
+    {
+      "section_index": 4,
+      "section_title": "FINANCIAL ARRANGEMENTS",
+      "content": "Our office will make every effort to provide the best care for your child. You can help us by paying for\ndental services upon completion of each visit. IF YOU HAVE INSURANCE, WE WILL BE HAPPY",
+      "char_count": 191,
+      "line_count": 2,
+      "is_signature_section": false
+    },
+    {
+      "section_index": 8,
+      "section_title": "X _________________________________ _______________",
+      "content": "Signature of Parent / Guardian Date",
+      "char_count": 35,
+      "line_count": 1,
+      "is_signature_section": false
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "source_file": "crown_bridge_prosthetics_informed_consent.txt",
+  "document_type": "consent",
+  "has_sections": true,
+  "section_count": 3,
+  "total_char_count": 2850,
+  "sections": [
+    {
+      "section_index": 2,
+      "section_title": "Recommended Treatment",
+      "content": "I hereby give consent to Dr. ___________________________ to perform Crown and Bridge Prosthetics procedure(s) on me or my dependent as follows: ________________________________\n__________________________________________________________ (“Recommended Treatment”) and any such additional procedure(s) as may be considered necessary for my well- being based on findings made during the course of the Recommended Treatment. The nature and purpose of the Recommended Treatment have been explained to me and no guarantee has been made or implied as to result or cure. I have been given satisfactory answers to all of my questions, and I wish to proceed with the Recommended Treatment. I also consent to the administration of local anesthesia during the performance of the Recommended Treatment.",
+      "char_count": 788,
+      "line_count": 2,
+      "is_signature_section": false
+    },
+    {
+      "section_index": 3,
+      "section_title": "Treatment Alternatives",
+      "content": "Alternative methods of treatment have been explained to me, such as: ________________________\n__________________________________________________________________________________",
+      "char_count": 176,
+      "line_count": 2,
+      "is_signature_section": false
+    },
+    {
+      "section_index": 5,
+      "section_title": "Risks and Complications",
+      "content": "I understand that there are risks and complications associated with the administration of medications, including anesthesia, and performance of the Recommended Treatment. These potential risks and complications, include, but are not limited to, the following:\nReduction of tooth structure.\nSensitivity of teeth.\nCrown or bridge abutment teeth may require root canal treatment.\nBreakage.\nUncomfortable or strange feelings, which is typically temporary. In limited situations, muscle soreness or tenderness of the jaw may persist following placement of the prosthesis.\nUnsatisfactory aesthetics or appearance.\nUnsatisfactory longevity of crowns and bridge.\nAs a result of the injection or use of anesthesia, at times there may be swelling, jaw muscle tenderness or even resultant numbness of the tongue, lips, teeth, jaws and/or facial tissues, which is typically temporary, but in rare instances, may be permanent.\nThis document is a sample form provided by MedPro Group and should not be construed as medical or legal advice. Because the facts applicable to your situation may vary, or the laws applicable in your jurisdiction may differ, please contact your attorney or other professional advisors if you have any questions related to your legal or medical obligations or rights, state or federal laws, contract interpretation, or other legal questions.\n© 2024 MedPro Group Inc. All rights reserved.\nSignature: |  |  |  | Date: |  |\n | Patient/Parent/Guardian | Patient/Parent/Guardian | Patient/Parent/Guardian |  |  |\nRelationship (if patient a minor): | Relationship (if patient a minor): | Relationship (if patient a minor): |  |  |  |\nWitness (signature): | Witness (signature): |  |  |  |",
+      "char_count": 1695,
+      "line_count": 15,
+      "is_signature_section": false
+    }
+  ]
+}

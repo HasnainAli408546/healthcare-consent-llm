@@ -1,0 +1,25 @@
+{
+  "source_file": "tooth_extraction_consent.txt",
+  "document_type": "consent",
+  "has_sections": true,
+  "section_count": 2,
+  "total_char_count": 2432,
+  "sections": [
+    {
+      "section_index": 1,
+      "section_title": "Date_____________________ CONSENT FOR EXTRACTION OF TEETH",
+      "content": "**Please initial each paragraph after reading. If you have any questions, please ask BEFORE initialing.",
+      "char_count": 103,
+      "line_count": 1,
+      "is_signature_section": false
+    },
+    {
+      "section_index": 2,
+      "section_title": "TEETH TO BE EXTRACTED: ____________________________________________________________________________",
+      "content": "Extraction of teeth is an irreversible process and, whether routine or difficult, is a surgical procedure. As in any surgery,\nthere are some risks. They include, but are not limited to, the following:\n________ 1. Swelling and/or bruising and discomfort in the surgery area.\n________2. Stretching of the corners of the mouth resulting in cracking or bruising.\n________3. Possible infection requiring additional treatment.\n________4. Dry Socket- Jaw pain beginning a few days after surgery usually requiring additional care. It is more\ncommon from lower extractions, especially wisdom teeth.\n________5. Possible damage to adjacent teeth, especially those with large fillings or crowns (caps).\n________6. Numbness, pain, or altered sensations in the teeth, gums, lip, tongue (including possible loss of taste\nsensation) and chin, due to the closeness of tooth roots (especially wisdom teeth) to the nerves which can be bruised or\ndamaged. Almost always sensation returns to normal, but in rare cases, the loss may be permanent.\n________7. Trismus- Limited jaw opening due to inflammation or swelling, most common after wisdom tooth removal.\nSometimes it is a result of Jaw Joint Disorder (TMJ), especially when TMJ disease already exists.\n________8. Bleeding- Significant bleeding is not common, but persistent oozing can be expected for several hours\n________9. Sharp ridges or bone splinters may form later at the edge of the socket. These usually require another\nsurgery to smooth or remove.\n_______10. Incomplete removal of tooth fragments. To avoid injury to vital structures such as nerves or sinus,\nsometimes small root tips may be left in place.\n_______11. Sinus Involvement. The roots of the upper back teeth are often close to the sinus and sometimes a piece of\nroot can be displaced into the sinus or an opening may occur into the mouth that may require additional care.\n_______12. Jaw Fracture- While quite rare, it is possible in difficult or deeply impacted teeth.\nPatient or Parent/Guardian Signature_______________________________________________________ Date_______\nWitness ______________________________________________________________ Date ______________",
+      "char_count": 2170,
+      "line_count": 23,
+      "is_signature_section": false
+    }
+  ]
+}

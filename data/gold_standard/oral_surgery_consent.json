@@ -1,0 +1,58 @@
+{
+  "document_type": "oral_surgery_informed_consent",
+
+  "procedure": {
+    "name": "Oral Surgery",
+    "description": "Authorization for oral surgical treatment and any additional procedures deemed necessary during surgery."
+  },
+
+  "recommended_treatment": {
+    "present": true,
+    "details": "Oral surgical treatment as recommended by the dentist or dental provider."
+  },
+
+  "treatment_alternatives": {
+    "present": true,
+    "description": "Patient has been informed of alternative treatment options and understands them."
+  },
+
+  "anesthesia": {
+    "present": true,
+    "types": [
+      "Local anesthesia",
+      "Local anesthesia with nitrous oxide and oxygen",
+      "Other anesthesia as specified"
+    ]
+  },
+
+  "risks_and_complications": [
+    "Drug reactions and medication side effects",
+    "Post-operative bleeding, oozing, infection, or bone inflammation",
+    "Bruising, swelling, or restricted mouth opening",
+    "Removal of bone during tooth extraction",
+    "Damage to adjacent teeth or restorations",
+    "Root tip fracture requiring retention or additional surgery",
+    "Delayed healing including dry socket",
+    "Sinus involvement requiring additional treatment or repair",
+    "Nerve injury resulting in temporary or permanent numbness or tingling",
+    "Jaw fracture",
+    "Poor bone healing or osteonecrosis in patients with bisphosphonate use or head and neck radiation"
+  ],
+
+  "no_guarantee_statement": {
+    "present": true
+  },
+
+  "right_to_ask_questions": {
+    "present": true
+  },
+
+  "signature": {
+    "required": true,
+    "fields": [
+      "Patient or Parent/Guardian Signature",
+      "Date",
+      "Witness Signature"
+    ]
+  }
+}

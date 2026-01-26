@@ -1,0 +1,17 @@
+{
+  "document_type": "consent",
+  "procedure": {
+    "name": "Virtual Teledentistry Services"
+  },
+  "risks_and_complications": [
+    "the risk to confidentiality may be greater than it would be if these remote electronic communications were encrypted",
+    "these evaluations may not reveal conditions that would be discovered during an office visit or through the use of specialized teledentistry technology"
+  ],
+  "alternatives_to_treatment": [],
+  "authorization": {
+    "present": true
+  },
+  "signature": {
+    "required": true
+  }
+}
