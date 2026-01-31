@@ -6,7 +6,8 @@ python-dotenv
 groq
 pathlib
 typing-extensions>=4.5.0
-
+pypdf
+python-multipart
 # Text Extraction
 pdfplumber==0.11.0
 python-docx==1.1.0
